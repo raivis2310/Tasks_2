@@ -1,0 +1,7 @@
+{
+  "require": {
+    "ext-readline": "*",
+    "ext-mbstring": "*",
+    "ext-ctype": "*"
+  }
+}
